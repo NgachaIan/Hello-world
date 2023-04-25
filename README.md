@@ -6,20 +6,12 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [📹 Video Description](#video-description)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👤 Author](#author)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
@@ -80,7 +72,7 @@ To run the project, follow these instructions:
 
 👤 **Is-haq, Ian Ngacha**
 
-- GitHub: [@AdnanOlarmmi](https://github.com/NgachaIan)
+- GitHub: [@NgachaIan](https://github.com/NgachaIan)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
