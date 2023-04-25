@@ -39,11 +39,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello world] <a name="about-project"></a>
+# 📖 Hello world <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[Hello world]** is a project that displays the text "Hello Microverse" in pink
+**Hello world** is a project that displays the text "Hello Microverse" in pink
 
 ## 🛠 Built With <a name="built-with">HTML/CSS</a>
 
@@ -52,15 +52,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
+## 👥 Author <a name="authors"></a>
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/NgachaIan)
+- GitHub: [@NgachaIan](https://github.com/NgachaIan)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
