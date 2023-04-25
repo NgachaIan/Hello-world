@@ -9,7 +9,6 @@
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
-  - [Install](#install)
   - [Usage](#usage)
 - [👤 Author](#author)
 - [❓ FAQ](#faq)
@@ -70,7 +69,7 @@ To run the project, follow these instructions:
 
 ## 👤 Author <a name="author"></a>
 
-👤 **Is-haq, Ian Ngacha**
+👤 **Ian Ngacha**
 
 - GitHub: [@NgachaIan](https://github.com/NgachaIan)
 
